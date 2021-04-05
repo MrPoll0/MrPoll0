@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **@MrPoll0**
-- 👀 I’m currently learning the **Refined Hypebeast Stack** (Elixir, React, Typescript, Postgresql, Node.js)
+- 👀 I worked as a FiveM scripter long ago. Now i'm moving into web development. (React, TypeScript, Elixir, NextJS)
 - 📫 How to reach me --> **mrp0ollo@gmail.com**
 
 <!---
